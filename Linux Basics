@@ -7,3 +7,27 @@ top, ps
 vm and nano
 
 You can be comfortable with File System, SSH, permissions, Networking, processes, services, bash commands. etc
+
+Alright what these commands do something like LS? 
+It's going to list down all of the files present in current working directory. 
+Exa. 
+$ ls -l 
+It's going to list down files with detailed information like size, date and all. 
+there will be more options with '-' here. Such as, ls -t, ls -ltr, ls -ld, ls -lt, ls -1.... these are basic I can try. 
+
+Then comes CD-
+CD is going to change directory, this can change directory. 
+cd /etc 
+It's going to change current directory to 'etc'
+
+GREP 
+This command specifically searched for pattern in file. 
+if you type GREP - .........
+infront of '-' this command will paste the pattern which you have mentioned there infront of '-' symbol. 
+exa. 
+grep - e,, it's going to put result on new line. 
+Usually grep was attached to the first commands output. 
+Exa. 
+ls -ltr | grep 'python'
+It suppose to show files and all details regarding python patter. 
+
