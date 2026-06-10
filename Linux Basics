@@ -29,5 +29,5 @@ grep - e,, it's going to put result on new line.
 Usually grep was attached to the first commands output. 
 Exa. 
 ls -ltr | grep 'python'
-It suppose to show files and all details regarding python patter. 
+It suppose to show files and all details regarding python pattern. 
 
