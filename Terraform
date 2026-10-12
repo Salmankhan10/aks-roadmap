@@ -1,0 +1,13 @@
+Writing this to help me remember how to do things with help of IaC.
+Terraform config, terraform init, terraform apply then if you want to destroy then terraform destroy. 
+
+Go to terraform.io/downloads 
+download amd64.... copy this downloaded file to any where you would like. 
+now you have executable terraform application. 
+It's time to edit environment variables. 
+Control Panel -> System and Security -> System -> Advanced System settings -> Environment variable -> Path -> new value -> 'Path of terraform' 
+
+Go to CMD 'terraform version' 
+to verify.
+
+Get Visual studio code 
