@@ -11,3 +11,8 @@ Go to CMD 'terraform version'
 to verify.
 
 Get Visual studio code 
+Launch VS Code
+Create directory to store your configuration file
+Extention -> Hashicorp Terraform, Azure Terraform,   
+Create a new file, Language - Specify terraform 
+Save - main.tf
